@@ -189,7 +189,8 @@ C R Reddy.html
 ```
 
 ## OUTPUT
-![alt text](1.png)
+![1](https://github.com/NagalapuramHasif/NearMe/assets/149365567/153153cc-54dc-4040-a866-cd6076f57997)
+
 
 ![alt text](2.png)
 ![alt text](3.png)
